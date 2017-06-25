@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Rotate Array of Strings", "04_Rotate Array of Strings\04_Rotate Array of Strings.csproj", "{1D8CD29E-9328-4C20-AF11-34279085919C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Smallest Element in Array", "03_Smallest Element in Array\03_Smallest Element in Array.csproj", "{8DC3F5CA-463D-43D7-B57D-562F9AB50D0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Multiply an Array of Doubles", "02_Multiply an Array of Doubles\02_Multiply an Array of Doubles.csproj", "{01866EB8-5490-4F28-8EE2-38E0F35D94F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Sum Array Elements", "01_Sum Array Elements\01_Sum Array Elements.csproj", "{E07F3B20-789A-4842-9CF8-34EED6EE9F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D8CD29E-9328-4C20-AF11-34279085919C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8CD29E-9328-4C20-AF11-34279085919C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8CD29E-9328-4C20-AF11-34279085919C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8CD29E-9328-4C20-AF11-34279085919C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC3F5CA-463D-43D7-B57D-562F9AB50D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC3F5CA-463D-43D7-B57D-562F9AB50D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC3F5CA-463D-43D7-B57D-562F9AB50D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC3F5CA-463D-43D7-B57D-562F9AB50D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01866EB8-5490-4F28-8EE2-38E0F35D94F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01866EB8-5490-4F28-8EE2-38E0F35D94F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01866EB8-5490-4F28-8EE2-38E0F35D94F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01866EB8-5490-4F28-8EE2-38E0F35D94F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07F3B20-789A-4842-9CF8-34EED6EE9F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07F3B20-789A-4842-9CF8-34EED6EE9F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07F3B20-789A-4842-9CF8-34EED6EE9F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07F3B20-789A-4842-9CF8-34EED6EE9F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Tear List in Half", "05_Tear List in Half\05_Tear List in Half.csproj", "{559F61EE-DE83-4253-8310-16E60970B057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Flip List Sides", "04_Flip List Sides\04_Flip List Sides.csproj", "{F3F1667A-AAE3-470A-8224-D0FB7EAFBEB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Equal Sum After Extraction", "03_Equal Sum After Extraction\03_Equal Sum After Extraction.csproj", "{1FCD2EF0-2BF5-4BF8-96A0-EAF4A90B3418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Track Downloader", "02_Track Downloader\02_Track Downloader.csproj", "{BB533661-332F-4559-9A65-EAD8253530CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Remove Elements at Odd Positions", "01_Remove Elements at Odd Positions\01_Remove Elements at Odd Positions.csproj", "{D5BB5F43-392A-498F-AA3C-049B911CF45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{559F61EE-DE83-4253-8310-16E60970B057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559F61EE-DE83-4253-8310-16E60970B057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559F61EE-DE83-4253-8310-16E60970B057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559F61EE-DE83-4253-8310-16E60970B057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F1667A-AAE3-470A-8224-D0FB7EAFBEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F1667A-AAE3-470A-8224-D0FB7EAFBEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F1667A-AAE3-470A-8224-D0FB7EAFBEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F1667A-AAE3-470A-8224-D0FB7EAFBEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCD2EF0-2BF5-4BF8-96A0-EAF4A90B3418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCD2EF0-2BF5-4BF8-96A0-EAF4A90B3418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCD2EF0-2BF5-4BF8-96A0-EAF4A90B3418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCD2EF0-2BF5-4BF8-96A0-EAF4A90B3418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB533661-332F-4559-9A65-EAD8253530CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB533661-332F-4559-9A65-EAD8253530CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB533661-332F-4559-9A65-EAD8253530CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB533661-332F-4559-9A65-EAD8253530CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5BB5F43-392A-498F-AA3C-049B911CF45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BB5F43-392A-498F-AA3C-049B911CF45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BB5F43-392A-498F-AA3C-049B911CF45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BB5F43-392A-498F-AA3C-049B911CF45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

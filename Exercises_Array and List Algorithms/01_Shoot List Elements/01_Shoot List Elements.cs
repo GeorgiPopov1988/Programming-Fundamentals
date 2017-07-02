@@ -30,6 +30,7 @@ namespace _01_Shoot_List_Elements
                 if (list.Count == 0)
                 {
                     Console.WriteLine($"nobody left to shoot! last one was {lastSybmol}");
+                    return;
                 }
 
 

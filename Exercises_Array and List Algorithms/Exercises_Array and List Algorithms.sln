@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Shoot List Elements", "01_Shoot List Elements\01_Shoot List Elements.csproj", "{1060F416-840B-43D3-A3C2-64CF6A1FF729}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Average Character Delimiter", "02_Average Character Delimiter\02_Average Character Delimiter.csproj", "{204796F3-5151-4242-BE73-41D2827BC45C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Sort Array of Strings", "03_Sort Array of Strings\03_Sort Array of Strings.csproj", "{48ACDD3E-BB22-4600-8E9E-F272421B7F50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1060F416-840B-43D3-A3C2-64CF6A1FF729}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1060F416-840B-43D3-A3C2-64CF6A1FF729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1060F416-840B-43D3-A3C2-64CF6A1FF729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204796F3-5151-4242-BE73-41D2827BC45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204796F3-5151-4242-BE73-41D2827BC45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204796F3-5151-4242-BE73-41D2827BC45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204796F3-5151-4242-BE73-41D2827BC45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48ACDD3E-BB22-4600-8E9E-F272421B7F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48ACDD3E-BB22-4600-8E9E-F272421B7F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48ACDD3E-BB22-4600-8E9E-F272421B7F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48ACDD3E-BB22-4600-8E9E-F272421B7F50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

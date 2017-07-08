@@ -1,6 +1,0 @@
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\03_Sort Array of Strings\bin\Debug\03_Sort Array of Strings.exe.config
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\03_Sort Array of Strings\bin\Debug\03_Sort Array of Strings.exe
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\03_Sort Array of Strings\bin\Debug\03_Sort Array of Strings.pdb
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\03_Sort Array of Strings\obj\Debug\03_Sort Array of Strings.csprojResolveAssemblyReference.cache
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\03_Sort Array of Strings\obj\Debug\03_Sort Array of Strings.exe
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\03_Sort Array of Strings\obj\Debug\03_Sort Array of Strings.pdb

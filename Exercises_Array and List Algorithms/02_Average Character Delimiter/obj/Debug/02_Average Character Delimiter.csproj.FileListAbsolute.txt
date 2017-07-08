@@ -1,6 +1,0 @@
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\02_Average Character Delimiter\bin\Debug\02_Average Character Delimiter.exe.config
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\02_Average Character Delimiter\bin\Debug\02_Average Character Delimiter.exe
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\02_Average Character Delimiter\bin\Debug\02_Average Character Delimiter.pdb
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\02_Average Character Delimiter\obj\Debug\02_Average Character Delimiter.csprojResolveAssemblyReference.cache
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\02_Average Character Delimiter\obj\Debug\02_Average Character Delimiter.exe
-C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Array and List Algorithms\02_Average Character Delimiter\obj\Debug\02_Average Character Delimiter.pdb

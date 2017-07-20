@@ -29,7 +29,7 @@
                     teamsRezults[teamName] = new Dictionary<string, int>();
                 }
 
-                if (teamsRezults[teamName].Count <= 3)
+                if (teamsRezults[teamName].Count < 3)
                 {
                     teamsRezults[teamName][playerName] = points;
                 }
@@ -54,7 +54,6 @@
                     .ToDictionary(k => k.Key, v => v.Value);
 
                 foreach (var personalData in currentPlayer)
-
                 {
                     Console.WriteLine($"###{personalData.Key}: {personalData.Value}");
                 }

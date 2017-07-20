@@ -50,12 +50,12 @@
 
                 foreach (var food in PeshoRequest)
                 {
-                    Console.WriteLine($"{food.Key} coasts {food.Value:F2}");
+                    Console.WriteLine($"{food.Key} costs {food.Value:F2}");
                 }
             }
             else
             {
-                Console.WriteLine("Need more money… Just buy banichka");
+                Console.WriteLine("Need more money... Just buy banichka");
             }
         }
     }

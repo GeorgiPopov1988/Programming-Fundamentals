@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Lambda and LINQ\07_LINQuistics\bin\Debug\07_LINQuistics.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Lambda and LINQ\07_LINQuistics\bin\Debug\07_LINQuistics.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Lambda and LINQ\07_LINQuistics\bin\Debug\07_LINQuistics.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Lambda and LINQ\07_LINQuistics\obj\Debug\07_LINQuistics.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Lambda and LINQ\07_LINQuistics\obj\Debug\07_LINQuistics.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Lambda and LINQ\07_LINQuistics\obj\Debug\07_LINQuistics.pdb

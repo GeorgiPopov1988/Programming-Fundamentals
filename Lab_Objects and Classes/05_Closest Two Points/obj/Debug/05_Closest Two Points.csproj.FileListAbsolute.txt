@@ -1,0 +1,6 @@
+c:\users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\05_Closest Two Points\bin\Debug\05_Closest Two Points.exe.config
+c:\users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\05_Closest Two Points\bin\Debug\05_Closest Two Points.exe
+c:\users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\05_Closest Two Points\bin\Debug\05_Closest Two Points.pdb
+c:\users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\05_Closest Two Points\obj\Debug\05_Closest Two Points.csprojResolveAssemblyReference.cache
+c:\users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\05_Closest Two Points\obj\Debug\05_Closest Two Points.exe
+c:\users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\05_Closest Two Points\obj\Debug\05_Closest Two Points.pdb

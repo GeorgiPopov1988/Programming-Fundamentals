@@ -1,0 +1,6 @@
+C:\Users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\06_Rectangle Position\bin\Debug\06_Rectangle Position.exe.config
+C:\Users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\06_Rectangle Position\bin\Debug\06_Rectangle Position.exe
+C:\Users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\06_Rectangle Position\bin\Debug\06_Rectangle Position.pdb
+C:\Users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\06_Rectangle Position\obj\Debug\06_Rectangle Position.csprojResolveAssemblyReference.cache
+C:\Users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\06_Rectangle Position\obj\Debug\06_Rectangle Position.exe
+C:\Users\georg\documents\visual studio 2017\Projects\Lab_Objects and Classes\06_Rectangle Position\obj\Debug\06_Rectangle Position.pdb

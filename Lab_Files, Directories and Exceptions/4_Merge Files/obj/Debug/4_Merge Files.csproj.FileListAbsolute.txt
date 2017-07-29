@@ -1,0 +1,5 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\4_Merge Files\bin\Debug\4_Merge Files.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\4_Merge Files\bin\Debug\4_Merge Files.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\4_Merge Files\bin\Debug\4_Merge Files.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\4_Merge Files\obj\Debug\4_Merge Files.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\4_Merge Files\obj\Debug\4_Merge Files.pdb

@@ -29,6 +29,7 @@
                         //int.TryParse(collectionName,out lenght);
 
                         string[] restrictedMetods = data.Values
+                            .OrderByDescending(c => c.Count)
                             .First()//Take firs string[], for current colletionName
                             .ToArray()
                             .OrderBy(l => l.Length)

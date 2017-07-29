@@ -1,0 +1,6 @@
+c:\users\georg\documents\visual studio 2017\Projects\Exercises_Objects and Simple Classes\02_Optimized Banking System\bin\Debug\02_Optimized Banking System.exe.config
+c:\users\georg\documents\visual studio 2017\Projects\Exercises_Objects and Simple Classes\02_Optimized Banking System\bin\Debug\02_Optimized Banking System.exe
+c:\users\georg\documents\visual studio 2017\Projects\Exercises_Objects and Simple Classes\02_Optimized Banking System\bin\Debug\02_Optimized Banking System.pdb
+c:\users\georg\documents\visual studio 2017\Projects\Exercises_Objects and Simple Classes\02_Optimized Banking System\obj\Debug\02_Optimized Banking System.csprojResolveAssemblyReference.cache
+c:\users\georg\documents\visual studio 2017\Projects\Exercises_Objects and Simple Classes\02_Optimized Banking System\obj\Debug\02_Optimized Banking System.exe
+c:\users\georg\documents\visual studio 2017\Projects\Exercises_Objects and Simple Classes\02_Optimized Banking System\obj\Debug\02_Optimized Banking System.pdb

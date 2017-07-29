@@ -1,0 +1,5 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\5_Folder Size\bin\Debug\5_Folder Size.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\5_Folder Size\bin\Debug\5_Folder Size.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\5_Folder Size\bin\Debug\5_Folder Size.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\5_Folder Size\obj\Debug\5_Folder Size.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\5_Folder Size\obj\Debug\5_Folder Size.pdb

@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\01_Odd Lines\bin\Debug\01_Odd Lines.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\01_Odd Lines\bin\Debug\01_Odd Lines.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\01_Odd Lines\bin\Debug\01_Odd Lines.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\01_Odd Lines\obj\Debug\01_Odd Lines.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\01_Odd Lines\obj\Debug\01_Odd Lines.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Files, Directories and Exceptions\01_Odd Lines\obj\Debug\01_Odd Lines.pdb

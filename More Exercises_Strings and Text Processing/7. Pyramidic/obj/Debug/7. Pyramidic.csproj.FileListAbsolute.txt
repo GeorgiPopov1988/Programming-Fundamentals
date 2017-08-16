@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\7. Pyramidic\bin\Debug\_7.Pyramidic.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\7. Pyramidic\bin\Debug\_7.Pyramidic.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\7. Pyramidic\bin\Debug\_7.Pyramidic.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\7. Pyramidic\obj\Debug\7. Pyramidic.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\7. Pyramidic\obj\Debug\_7.Pyramidic.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\7. Pyramidic\obj\Debug\_7.Pyramidic.pdb

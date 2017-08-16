@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Match Full Name", "1. Match Full Name\1. Match Full Name.csproj", "{022A2EB7-1944-47A4-A3B5-61C26CA97279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Match Phone Number", "2. Match Phone Number\2. Match Phone Number.csproj", "{C60E6228-1A40-4505-8E11-0D365BF66BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Match Hexadecimal Numbers", "3. Match Hexadecimal Numbers\3. Match Hexadecimal Numbers.csproj", "{C6504083-7011-4796-8E93-ECCB1751FC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Match Dates", "4. Match Dates\4. Match Dates.csproj", "{0E6DEF10-89AA-4A03-8092-A20CF42969E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Match Numbers", "5. Match Numbers\5. Match Numbers.csproj", "{56F3A114-8264-4F9F-A14E-D29B68F5B6E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Replace _a_ Tag", "6. Replace _a_ Tag\6. Replace _a_ Tag.csproj", "{832A16E1-3E9D-4027-89F3-26673A200407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022A2EB7-1944-47A4-A3B5-61C26CA97279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022A2EB7-1944-47A4-A3B5-61C26CA97279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022A2EB7-1944-47A4-A3B5-61C26CA97279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022A2EB7-1944-47A4-A3B5-61C26CA97279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60E6228-1A40-4505-8E11-0D365BF66BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60E6228-1A40-4505-8E11-0D365BF66BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60E6228-1A40-4505-8E11-0D365BF66BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60E6228-1A40-4505-8E11-0D365BF66BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6504083-7011-4796-8E93-ECCB1751FC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6504083-7011-4796-8E93-ECCB1751FC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6504083-7011-4796-8E93-ECCB1751FC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6504083-7011-4796-8E93-ECCB1751FC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6DEF10-89AA-4A03-8092-A20CF42969E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6DEF10-89AA-4A03-8092-A20CF42969E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6DEF10-89AA-4A03-8092-A20CF42969E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6DEF10-89AA-4A03-8092-A20CF42969E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F3A114-8264-4F9F-A14E-D29B68F5B6E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F3A114-8264-4F9F-A14E-D29B68F5B6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F3A114-8264-4F9F-A14E-D29B68F5B6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F3A114-8264-4F9F-A14E-D29B68F5B6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832A16E1-3E9D-4027-89F3-26673A200407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832A16E1-3E9D-4027-89F3-26673A200407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832A16E1-3E9D-4027-89F3-26673A200407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832A16E1-3E9D-4027-89F3-26673A200407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

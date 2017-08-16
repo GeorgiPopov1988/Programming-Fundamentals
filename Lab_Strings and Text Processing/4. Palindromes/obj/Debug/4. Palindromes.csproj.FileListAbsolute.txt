@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\4. Palindromes\bin\Debug\_4.Palindromes.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\4. Palindromes\bin\Debug\_4.Palindromes.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\4. Palindromes\bin\Debug\_4.Palindromes.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\4. Palindromes\obj\Debug\4. Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\4. Palindromes\obj\Debug\_4.Palindromes.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\4. Palindromes\obj\Debug\_4.Palindromes.pdb

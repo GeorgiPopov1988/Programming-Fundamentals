@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\2_Placeholders\bin\Debug\2_Placeholders.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\2_Placeholders\bin\Debug\2_Placeholders.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\2_Placeholders\bin\Debug\2_Placeholders.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\2_Placeholders\obj\Debug\2_Placeholders.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\2_Placeholders\obj\Debug\2_Placeholders.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\2_Placeholders\obj\Debug\2_Placeholders.pdb

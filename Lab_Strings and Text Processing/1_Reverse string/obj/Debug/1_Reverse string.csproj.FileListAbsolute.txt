@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\1_Reverse string\bin\Debug\1_Reverse string.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\1_Reverse string\bin\Debug\1_Reverse string.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\1_Reverse string\bin\Debug\1_Reverse string.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\1_Reverse string\obj\Debug\1_Reverse string.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\1_Reverse string\obj\Debug\1_Reverse string.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\1_Reverse string\obj\Debug\1_Reverse string.pdb

@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\4. JSON Parse\bin\Debug\_4.JSON_Parse.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\4. JSON Parse\bin\Debug\_4.JSON_Parse.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\4. JSON Parse\bin\Debug\_4.JSON_Parse.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\4. JSON Parse\obj\Debug\4. JSON Parse.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\4. JSON Parse\obj\Debug\_4.JSON_Parse.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\4. JSON Parse\obj\Debug\_4.JSON_Parse.pdb

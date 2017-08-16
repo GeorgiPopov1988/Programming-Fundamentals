@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\1. Value of a String\bin\Debug\_1.Value_of_a_String.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\1. Value of a String\bin\Debug\_1.Value_of_a_String.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\1. Value of a String\bin\Debug\_1.Value_of_a_String.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\1. Value of a String\obj\Debug\1. Value of a String.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\1. Value of a String\obj\Debug\_1.Value_of_a_String.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\1. Value of a String\obj\Debug\_1.Value_of_a_String.pdb

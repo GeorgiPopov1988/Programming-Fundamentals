@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\3_JSON Stringify\bin\Debug\3_JSON Stringify.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\3_JSON Stringify\bin\Debug\3_JSON Stringify.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\3_JSON Stringify\bin\Debug\3_JSON Stringify.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\3_JSON Stringify\obj\Debug\3_JSON Stringify.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\3_JSON Stringify\obj\Debug\3_JSON Stringify.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\3_JSON Stringify\obj\Debug\3_JSON Stringify.pdb

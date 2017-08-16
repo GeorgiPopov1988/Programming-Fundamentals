@@ -1,0 +1,5 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\3. Serialize String\bin\Debug\_3.Serialize_String.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\3. Serialize String\bin\Debug\_3.Serialize_String.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\3. Serialize String\bin\Debug\_3.Serialize_String.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\3. Serialize String\obj\Debug\_3.Serialize_String.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\3. Serialize String\obj\Debug\_3.Serialize_String.pdb

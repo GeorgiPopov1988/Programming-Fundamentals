@@ -1,0 +1,5 @@
+C:\Users\georg\documents\visual studio 2017\Projects\ExamPreparation_OldCourses I\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe.config
+C:\Users\georg\documents\visual studio 2017\Projects\ExamPreparation_OldCourses I\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.exe
+C:\Users\georg\documents\visual studio 2017\Projects\ExamPreparation_OldCourses I\Problem 2. SoftUni Karaoke\bin\Debug\Problem_2.SoftUni_Karaoke.pdb
+C:\Users\georg\documents\visual studio 2017\Projects\ExamPreparation_OldCourses I\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.exe
+C:\Users\georg\documents\visual studio 2017\Projects\ExamPreparation_OldCourses I\Problem 2. SoftUni Karaoke\obj\Debug\Problem_2.SoftUni_Karaoke.pdb

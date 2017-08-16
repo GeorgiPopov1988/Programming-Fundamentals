@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\1_Find the Letter\bin\Debug\1_Find the Letter.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\1_Find the Letter\bin\Debug\1_Find the Letter.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\1_Find the Letter\bin\Debug\1_Find the Letter.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\1_Find the Letter\obj\Debug\1_Find the Letter.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\1_Find the Letter\obj\Debug\1_Find the Letter.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Exercises_Strings and Text Processing\1_Find the Letter\obj\Debug\1_Find the Letter.pdb

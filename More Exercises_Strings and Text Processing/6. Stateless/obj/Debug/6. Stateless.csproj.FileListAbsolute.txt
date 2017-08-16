@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\6. Stateless\bin\Debug\_6.Stateless.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\6. Stateless\bin\Debug\_6.Stateless.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\6. Stateless\bin\Debug\_6.Stateless.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\6. Stateless\obj\Debug\6. Stateless.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\6. Stateless\obj\Debug\_6.Stateless.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\More Exercises_Strings and Text Processing\6. Stateless\obj\Debug\_6.Stateless.pdb

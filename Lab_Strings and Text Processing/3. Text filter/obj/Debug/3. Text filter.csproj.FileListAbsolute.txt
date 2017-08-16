@@ -1,0 +1,5 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\3. Text filter\bin\Debug\_3.Text_filter.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\3. Text filter\bin\Debug\_3.Text_filter.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\3. Text filter\bin\Debug\_3.Text_filter.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\3. Text filter\obj\Debug\_3.Text_filter.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\Lab_Strings and Text Processing\3. Text filter\obj\Debug\_3.Text_filter.pdb

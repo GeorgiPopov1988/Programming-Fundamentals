@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\ExamPreparation_OldCourses I\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\ExamPreparation_OldCourses I\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\ExamPreparation_OldCourses I\Problem 4 – Winning Ticket\bin\Debug\Problem 4 – Winning Ticket.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\ExamPreparation_OldCourses I\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\ExamPreparation_OldCourses I\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Programming - Fundamentals\ExamPreparation_OldCourses I\Problem 4 – Winning Ticket\obj\Debug\Problem 4 – Winning Ticket.pdb

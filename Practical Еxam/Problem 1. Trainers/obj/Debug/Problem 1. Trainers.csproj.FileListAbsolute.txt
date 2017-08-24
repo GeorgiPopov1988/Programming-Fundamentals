@@ -1,0 +1,7 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 1. Trainers\bin\Debug\Problem_1.Trainers.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 1. Trainers\bin\Debug\Problem_1.Trainers.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 1. Trainers\bin\Debug\Problem_1.Trainers.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 1. Trainers\obj\Debug\Problem 1. Trainers.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 1. Trainers\obj\Debug\Problem 1. Trainers.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 1. Trainers\obj\Debug\Problem_1.Trainers.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 1. Trainers\obj\Debug\Problem_1.Trainers.pdb

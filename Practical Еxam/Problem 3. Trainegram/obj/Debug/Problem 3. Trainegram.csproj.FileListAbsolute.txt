@@ -1,0 +1,7 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 3. Trainegram\bin\Debug\Problem_3.Trainegram.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 3. Trainegram\bin\Debug\Problem_3.Trainegram.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 3. Trainegram\bin\Debug\Problem_3.Trainegram.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 3. Trainegram\obj\Debug\Problem 3. Trainegram.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 3. Trainegram\obj\Debug\Problem 3. Trainegram.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 3. Trainegram\obj\Debug\Problem_3.Trainegram.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 3. Trainegram\obj\Debug\Problem_3.Trainegram.pdb

@@ -1,0 +1,7 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 4. Trainlands\bin\Debug\Problem_4.Trainlands.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 4. Trainlands\bin\Debug\Problem_4.Trainlands.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 4. Trainlands\bin\Debug\Problem_4.Trainlands.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 4. Trainlands\obj\Debug\Problem 4. Trainlands.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 4. Trainlands\obj\Debug\Problem 4. Trainlands.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 4. Trainlands\obj\Debug\Problem_4.Trainlands.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 4. Trainlands\obj\Debug\Problem_4.Trainlands.pdb

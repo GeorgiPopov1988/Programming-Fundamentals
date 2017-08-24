@@ -1,0 +1,6 @@
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 2. Entertrain\bin\Debug\Problem_2.Entertrain.exe.config
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 2. Entertrain\bin\Debug\Problem_2.Entertrain.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 2. Entertrain\bin\Debug\Problem_2.Entertrain.pdb
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 2. Entertrain\obj\Debug\Problem 2. Entertrain.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 2. Entertrain\obj\Debug\Problem_2.Entertrain.exe
+C:\Users\georg\Documents\Visual Studio 2017\Projects\Practical Еxam\Problem 2. Entertrain\obj\Debug\Problem_2.Entertrain.pdb
